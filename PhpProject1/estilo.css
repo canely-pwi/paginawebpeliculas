@@ -1,0 +1,54 @@
+body{
+      background-color: rgb(174, 229, 243);
+      display: block;
+      margin: 10px;
+ 
+}
+
+h1{
+    text-align: center;
+    color: rgb(197, 154, 218);
+    font-family: "Sofia", sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: rgb(197, 154, 218);
+    font-family: "Sofia", sans-serif;
+}
+
+:default{
+    text-align: center;
+}
+
+.tabla{
+    
+    position: absolute;
+    border-collapse: separate;
+    border-spacing: 25;
+    background: burlywood ;
+    color: rgb(107, 81, 81);
+    border-radius: 25px;
+   
+ 
+}
+
+
+
+td,th{
+    background: #fff;
+    color: #000;
+}
+
+video{
+    border-radius: 15%;
+    width: 500;
+    height: 601;
+}
+img{ 
+    
+    width:"150";
+    height:"200";
+    border-radius: 15%;
+    box-shadow: 5px 5px 0px #424242;
+}
